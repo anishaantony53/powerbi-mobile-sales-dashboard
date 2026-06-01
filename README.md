@@ -3,6 +3,7 @@
 This project presents a comprehensive analysis of the mobile phone market from 2022–2024 using Power BI. The dashboard combines descriptive, predictive, and prescriptive analytics to identify key sales drivers and optimize revenue strategies.
 
 Key Features:
+
 • Interactive Power BI dashboards
 • AI-driven Key Influencers analysis
 • What-If scenario modeling
